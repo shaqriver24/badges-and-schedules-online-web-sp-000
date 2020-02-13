@@ -14,3 +14,7 @@ def assign_rooms(arr)
   arr.each_with_index { |name, idx| new_arr << "Hello, #{name}! You'll be assigned to room #{idx + 1}!"}
   new_arr
 end
+
+def printer
+
+end
